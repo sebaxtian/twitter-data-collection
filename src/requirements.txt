@@ -1,0 +1,3 @@
+# twitter-data-collection requirements
+twint
+pandas
