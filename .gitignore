@@ -133,3 +133,8 @@ pip-selfcheck.json
 .history
 
 # End of https://www.gitignore.io/api/python,virtualenv,visualstudiocode
+
+
+# Output
+src/output
+!src/output/.gitkeep
